@@ -2,7 +2,7 @@ import Navbar from './Componets/Navbar/Navbar'
 import Hero from './Componets/Hero/Hero'
 import About from './Componets/About/About'
 import Team from './Componets/Team/Team'
-// import Form from './Componets/Sign/Form'
+import Form from './Componets/Sign/Form'
 import Product from './Componets/Product/Product'
 import { LocomotiveScrollProvider } from "react-locomotive-scroll";
 import { useRef } from "react";
@@ -27,7 +27,7 @@ function App() {
         
         <div><Team/></div>
         <div><Product/></div>
-        {/* <div><Form/> </div> */}
+        <div><Form/> </div>
       </main>
       </XyzTransitionGroup>
     // </LocomotiveScrollProvider>
