@@ -4,7 +4,7 @@ import './form.css';
 function Form() {
   return (
     <div className="form" data-scroll-section>
-        <h3>signup</h3>
+        <h3>sign up</h3>
         <input placeholder="first Name"/>
         <input placeholder="Second Name"/>
         <input placeholder="Email"/>
