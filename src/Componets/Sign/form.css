@@ -1,0 +1,29 @@
+.form{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    margin-left: 7rem;
+    margin-right: 7rem;
+    justify-content: space-evenly;
+    padding: 2rem;
+    border: 1px gray solid;
+    border-radius: 1rem;
+}
+.form input{
+    height: 2.2rem;
+    margin-top: 1rem;
+    border:none;
+    background-color: rgb(3, 3, 48);
+    border-bottom: 1px gray solid;
+    font-size: 1.2rem;
+
+}
+.form button{
+    width: 40%;
+    margin-top: 2rem;
+    background-color: aqua;
+    height: 2rem;
+    border: none;
+    margin-left: 5rem;
+    color:black;
+}

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montez&family=Poppins:ital,wght@0,200;0,300;0,400;1,300;1,400&display=swap');
+.navbar{
+    /* background-color: red; */
+    padding: 2rem;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    top: 0;
+    left: 0;
+    max-height: 1rem;
+}
+.logo{
+    display: flex;
+}
+.logo h1{
+    padding-left:5px;
+    font-family: 'Montez', cursive;
+    font-size: 3rem;
+}
+.items{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+.items p{
+    font-family: 'Poppins', sans-serif;
+
+}

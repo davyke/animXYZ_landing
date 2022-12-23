@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montez&family=Poppins:ital,wght@0,200;0,300;0,400;1,300;1,400&family=Roboto:wght@100&display=swap');
+.about{
+    /* background-color: red; */
+    display: flex;
+}
+.about h2{
+    padding-left: 2rem;
+    width: 50%;
+    font-size: 2rem;
+}
+.about p{
+    width: 50%;
+    font-family:'Poppins', sans-serif;
+    padding-right: 1rem;
+    line-height: 1.2rem;
+}

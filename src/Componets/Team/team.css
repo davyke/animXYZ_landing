@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montez&family=Poppins:ital,wght@0,200;0,300;0,400;1,300;1,400&family=Roboto:wght@100&display=swap');
+.team{
+    display: flex;
+}
+.banner{
+    padding-left: 2rem;
+    padding-top: 5rem;
+}
+h2{
+    font-size: 2rem;
+}
+p{
+    line-height: 1.5rem;
+    font-family:'Poppins', sans-serif;
+}

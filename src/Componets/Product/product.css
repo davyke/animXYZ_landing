@@ -1,0 +1,27 @@
+.product-container{
+    padding-left: 2rem;
+    width: 90%;
+}
+.product-container image-wrapper{
+    width: 100%;
+}
+.image-wrapper img{
+    width: 100%;
+}
+.content  {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 5;
+}
+.content h1{
+    z-index: 99;
+
+}
+.content p{
+    width: 40%;
+    z-index: 99;
+    
+}
